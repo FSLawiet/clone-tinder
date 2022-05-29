@@ -49,7 +49,7 @@ Estilização photo and actions
 .photo {
   width: 98vw;
   height: 85vh;
-  background: url("../img/pexels-photo-5710034.jpeg") center center/cover;
+  background: url("../img/eddie.webp") center center/cover;
   border-radius: 10px;
   display: flex;
   align-items: flex-end;
